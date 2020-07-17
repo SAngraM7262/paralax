@@ -1,0 +1,84 @@
+*{
+margin:0px;
+padding:0px;
+}
+.text{
+font-family: 'Kavivanar', cursive;
+font-size:100px;
+letter-spacing:4px;
+opacity:.7;
+color:white;
+font-weight: bolder;
+line-height:700px;
+text-align:center;
+}
+
+.block1{
+width:100%;
+height:700px;
+background: url(1.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment:fixed;
+}
+
+.block2{
+width:100%;
+height:700px;
+background: url(2.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment:fixed;
+}
+
+.block3{
+width:100%;
+height:700px;
+background: url(3.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment:fixed;
+}
+
+.block4{
+width:100%;
+height:700px;
+background: url(4.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment:fixed;
+}
+
+.block5{
+width:100%;
+height:700px;
+background: url(5.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment:fixed;
+}
+
+.block6{
+width:100%;
+height:700px;
+background: url(6.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment:fixed;
+}
+
+.block7{
+width:100%;
+height:700px;
+background: url(7.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment:fixed;
+}
